@@ -8,8 +8,6 @@ The application runs in a loop, allowing users to check weather information for 
 
 This project was built to practice working with APIs, JSON data handling, and integrating text-to-speech functionality in Python.
 
----
-
 ## Features
 
 - Fetch real-time weather data using API
@@ -18,16 +16,12 @@ This project was built to practice working with APIs, JSON data handling, and in
 - Continuous input loop until user exits
 - Simple command-line interface
 
----
-
 ## Tech Stack
 
 - Python
 - requests
 - json
 - win32com.client (Windows TTS)
-
----
 
 ## How It Works
 
@@ -38,22 +32,15 @@ This project was built to practice working with APIs, JSON data handling, and in
 5. Weather information is printed and spoken aloud.
 6. User can exit by entering `0`.
 
----
-
 ## Installation
 
 Note: This application works only on Windows OS because it uses Windows Text-to-Speech.
 
----
-
 ## How to Run
-
 
 Enter the city name when prompted.
 
 Enter `0` to exit the program.
-
----
 
 ## Learning Outcome
 
@@ -65,8 +52,6 @@ While building this project, I practiced:
 - Integrating Windows Text-to-Speech
 - Extracting and formatting structured data
 
----
-
 ## Future Improvements
 
 - Add error handling for invalid city names
@@ -74,8 +59,6 @@ While building this project, I practiced:
 - Create a GUI version
 - Make cross-platform version without Windows dependency
 
----
+## 👨‍💻 Author
 
-## Author
-
-ANIRUDDHA BHATTACHARYYA
+**ANIRUDDHA BHATTACHARYYA**
