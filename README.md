@@ -42,4 +42,40 @@ This project was built to practice working with APIs, JSON data handling, and in
 
 ## Installation
 
-Install required modules:
+Note: This application works only on Windows OS because it uses Windows Text-to-Speech.
+
+---
+
+## How to Run
+
+
+Enter the city name when prompted.
+
+Enter `0` to exit the program.
+
+---
+
+## Learning Outcome
+
+While building this project, I practiced:
+
+- Working with REST APIs
+- Parsing JSON data in Python
+- Handling user input and loops
+- Integrating Windows Text-to-Speech
+- Extracting and formatting structured data
+
+---
+
+## Future Improvements
+
+- Add error handling for invalid city names
+- Hide API key using environment variables
+- Create a GUI version
+- Make cross-platform version without Windows dependency
+
+---
+
+## Author
+
+ANIRUDDHA BHATTACHARYYA
